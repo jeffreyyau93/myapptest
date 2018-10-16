@@ -3,4 +3,9 @@ This is my Udacity portfolio site project. At the moment it only contains barebo
 ## License
 No licensing for now.
 ## Acknowledgements
+Some image form:
+https://in.udacity.com/ready
+https://pixabay.com/en/code-html-digital-coding-web-1076536/
+https://www.omega-pure.com/10-minimalist-wallpaper-designs-with-modern-flair/view-gallery/
+I don't own these image, this is purely for practice.
 Hat tip to the Udacity team, thank you for all the sourceful content.
