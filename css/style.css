@@ -13,6 +13,7 @@
 .feat__link {
   font-size: 3vw;
 }
+
 .gen__img {
   max-width: 100%;
 }
@@ -49,7 +50,7 @@
 
 hr {
   background-color: #7d97ad;
-  border-width: 0;
+  border: none;
   height: 5px;
 }
 
@@ -111,7 +112,6 @@ hr {
   .hdr {
     align-items: center;
     display: flex;
-    flex: wrap;
     margin: 0 auto;
     max-width: 900px;
   }
